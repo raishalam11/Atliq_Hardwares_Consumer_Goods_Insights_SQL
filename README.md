@@ -1,0 +1,1 @@
+# Atliq_Hardwares_Consumer_Goods_Insights_SQL
